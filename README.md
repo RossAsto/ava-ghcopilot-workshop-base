@@ -1,0 +1,1 @@
+# ava-ghcopilot-workshop-base
